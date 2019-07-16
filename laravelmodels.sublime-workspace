@@ -1,0 +1,846 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"p",
+				"project"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"zoo",
+				"getZoom"
+			],
+			[
+				"be",
+				"bearing"
+			],
+			[
+				"de",
+				"declination"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"pl",
+				"placename"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"ty",
+				"types"
+			],
+			[
+				"short",
+				"shrinkToFit"
+			],
+			[
+				"inline",
+				"inline-flex"
+			],
+			[
+				"i",
+				"inline-block"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"lo",
+				"longitude"
+			],
+			[
+				"lat",
+				"latitude"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"t",
+				"this"
+			],
+			[
+				"add",
+				"addMarker"
+			],
+			[
+				"fun",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"p",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"ht",
+				"HTMLPrettify"
+			],
+			[
+				"reg",
+				"RegReplace: abbrAll"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"htm",
+				"HTMLPrettify"
+			],
+			[
+				"RegRe",
+				"RegReplace: abbrAll"
+			],
+			[
+				"regre",
+				"RegReplace: Settings"
+			],
+			[
+				"setting",
+				"RegReplace: Settings"
+			],
+			[
+				"re",
+				"RegReplace: Create New Regular Expression Rule"
+			],
+			[
+				"Package Control",
+				"Package Control: Install Package"
+			],
+			[
+				"htmlpte",
+				"HTMLPrettify"
+			],
+			[
+				"html p",
+				"HTMLPrettify"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 150.0,
+		"history":
+		[
+			"view.run_command(\"htmlprettify\")",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/laravelmodels",
+		"/C/xampp/htdocs/laravelmodels/app",
+		"/C/xampp/htdocs/laravelmodels/bootstrap",
+		"/C/xampp/htdocs/laravelmodels/config",
+		"/C/xampp/htdocs/laravelmodels/database",
+		"/C/xampp/htdocs/laravelmodels/public",
+		"/C/xampp/htdocs/laravelmodels/resources",
+		"/C/xampp/htdocs/laravelmodels/resources/views"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/laravelmodels/laravelmodels.sublime-project",
+		"/C/xampp/php/php.ini",
+		"/C/xampp/htdocs/laravelmodels/routes/web.php",
+		"/C/xampp/htdocs/laravelmodels/public/index.php",
+		"/C/xampp/htdocs/laravelmodels/routes/api.php",
+		"/C/xampp/htdocs/laracast/routes/channels.php",
+		"/C/xampp/htdocs/laracast/resources/views/about.blade.php",
+		"/C/xampp/htdocs/laracast/bootstrap/app.php",
+		"/C/xampp/htdocs/laracast/app/User.php",
+		"/C/xampp/htdocs/laravelmodels/bootstrap/app.php",
+		"/C/Users/ChrisB/Desktop/countItems.js",
+		"/C/Users/ChrisB/OneDrive/Documents/php_fiddles/tutiorialrepublic/MySql/prepared-statement-pdo-format.php",
+		"/C/Users/ChrisB/OneDrive/Documents/php_fiddles/tutiorialrepublic/MySql/get-last-inserted-id-from-mysql-database-table-pdo-format.php",
+		"/C/Users/ChrisB/OneDrive/Documents/php_fiddles/tutiorialrepublic/MySql/get-last-inserted-id-from-mysql-database-table-oo-format.php",
+		"/C/Users/ChrisB/OneDrive/Documents/php_fiddles/tutiorialrepublic/MySql/get-last-inserted-id-from-mysql-database-table.php",
+		"/C/Users/ChrisB/OneDrive/Documents/php_fiddles/tutiorialrepublic/MySql/prepared-statement-oo-format.php",
+		"/C/Users/ChrisB/OneDrive/Documents/php_fiddles/tutiorialrepublic/MySql/prepared-statement.php",
+		"/C/Users/ChrisB/OneDrive/Documents/php_fiddles/tutiorialrepublic/MySql/insert-multiple-rows-into-table-in-mysql-pdo-format.php",
+		"/C/Users/ChrisB/OneDrive/Documents/php_fiddles/tutiorialrepublic/MySql/insert-multiple-rows-into-table-in-mysql-oo-format.php",
+		"/C/Users/ChrisB/OneDrive/Documents/php_fiddles/tutiorialrepublic/MySql/insert-multiple-rows-into-table-in-mysql.php",
+		"/C/Users/ChrisB/OneDrive/Documents/php_fiddles/tutiorialrepublic/MySql/insert-records-into-mysql-database-table-pdo-format.php",
+		"/C/Users/ChrisB/OneDrive/Documents/php_fiddles/tutiorialrepublic/MySql/insert-records-into-mysql-database-table-oo-format.php",
+		"/C/Users/ChrisB/OneDrive/Documents/php_fiddles/tutiorialrepublic/MySql/insert-records-into-mysql-database-table.php",
+		"/C/Users/ChrisB/OneDrive/Documents/php_fiddles/tutiorialrepublic/insert-records-into-mysql-database-table-pdo-format.php",
+		"/C/Users/ChrisB/OneDrive/Documents/php_fiddles/tutiorialrepublic/insert-records-into-mysql-database-table.php",
+		"/C/Users/ChrisB/OneDrive/Documents/php_fiddles/tutiorialrepublic/create-mysql-database-pdo-format.php",
+		"/C/Users/ChrisB/OneDrive/Documents/php_fiddles/tutiorialrepublic/create-mysql-database-oo-format.php",
+		"/C/Users/ChrisB/OneDrive/Documents/php_fiddles/tutiorialrepublic/create-mysql-database.php",
+		"/C/Users/ChrisB/OneDrive/Documents/php_fiddles/tutiorialrepublic/create-mysql-table.php",
+		"/C/Users/ChrisB/OneDrive/Documents/php_fiddles/tutiorialrepublic/tutorialrepublic_php_filter_validate_int.php",
+		"/C/Users/ChrisB/OneDrive/Documents/php_fiddles/tutiorialrepublic/log-errors-by-email.php",
+		"/C/Users/ChrisB/Downloads/contact.php",
+		"/C/Users/ChrisB/OneDrive/Documents/php_fiddles/tutiorialrepublic/log-errors-in-a-text-file.php",
+		"/C/Users/ChrisB/OneDrive/Documents/php_fiddles/tutiorialrepublic/custom-error-handler.php",
+		"/C/Users/ChrisB/Desktop/To be filed/Flight Simulator add ons/FSX DX10/Nvidia DX10 Profile/fsx_dx10.nip",
+		"/C/Users/ChrisB/Documents/Flight Simulator X Files/Flight Plans/North America/USA/Alaska/Sitka/Sitka Rocky Gutierrez/PASI-PAPG Sitka Rocky Gutierrez to Johnson Petersburg R 82nm.pln",
+		"/C/Users/ChrisB/OneDrive/Documents/php_fiddles/tutorialrepublic_php_filter_validate_int.php",
+		"/C/Users/ChrisB/OneDrive/Documents/php/tutorialspoint_php_Web concepts.fixed.php",
+		"/C/Users/ChrisB/Downloads/Hession_Kim.vcf",
+		"/C/xampp/htdocs/laravelmodels/app/Http/Controllers/ProjectsController.php",
+		"/C/Program Files/PHP/v7.1/php.ini",
+		"/C/xampp/htdocs/laravelmodels/vendor/laravel/framework/src/Illuminate/Support/helpers.php",
+		"/C/xampp/htdocs/laravelmodels/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php",
+		"/C/xampp/htdocs/laravelmodels/app/Project.php",
+		"/C/xampp/htdocs/laravelmodels/app/Http/Controllers/PostsController.php",
+		"/C/xampp/htdocs/laravelmodels/app/Http/Controllers/ProjectTasksController.php",
+		"/C/xampp/htdocs/laravelmodels/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php",
+		"/C/xampp/htdocs/laravelmodels/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php",
+		"/C/xampp/htdocs/laravelmodels/config/app.php",
+		"/C/xampp/htdocs/laravelmodels/database/migrations/2019_03_03_150113_create_project_table.php",
+		"/C/Users/ChrisB/AppData/Roaming/Sublime Text 3/Packages/User/Xdebug.sublime-settings",
+		"/C/xampp/php/php.ini-development",
+		"/C/xampp/htdocs/laravelmodels/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/xampp/htdocs/laravelmodels/app/Http/Controllers/Controller.php",
+		"/C/xampp/htdocs/laravelmodels/app/Task.php",
+		"/C/MS Flight Simulator Steam Edition/steamapps/common/FSX/SimObjects/Airplanes/Carenado Cessna 182Q LR/Aircraft.cfg",
+		"/C/MS Flight Simulator Steam Edition/steamapps/common/FSX/SimObjects/Airplanes/Carenado Cessna 182Q/Aircraft.cfg",
+		"/C/xampp/htdocs/laravelmodels/app/Post.php",
+		"/C/xampp/htdocs/laravelmodels/resources/views/projects/show.blade.php",
+		"/C/xampp/htdocs/laravelmodels/resources/views/errors.blade.php",
+		"/C/xampp/htdocs/laravelmodels/resources/views/projects/create.blade.php",
+		"/C/xampp/htdocs/laravelmodels/resources/views/projects/errors.blade.php",
+		"/C/xampp/htdocs/laravelmodels/resources/views/layout.blade.php",
+		"/C/xampp/htdocs/laravelmodels/resources/views/projects/index.blade.php",
+		"/C/xampp/htdocs/laravelmodels/resources/views/projects/edit.blade.php",
+		"/C/xampp/htdocs/laravelmodels/.env",
+		"/C/xampp/htdocs/laravelmodels/config/database.php",
+		"/C/Users/ChrisB/Downloads/flyityourself - 2019-03-14T192522.219.txt",
+		"/C/Users/ChrisB/Downloads/New folder (2)/mankatobec_31aa1b.jpg.crdownload",
+		"/C/xampp/htdocs/laravelmodels/app/Http/Controllers/ProjetsController.php",
+		"/C/xampp/htdocs/laravelmodels/vendor/laravel/framework/src/Illuminate/Foundation/Auth/User.php",
+		"/C/xampp/htdocs/laravelmodels/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php",
+		"/C/xampp/htdocs/laravelmodels/app/Console/Kernel.php",
+		"/C/xampp/htdocs/laravelmodels/app/Http/Kernel.php",
+		"/C/xampp/htdocs/laravelmodels/package.json",
+		"/C/Users/ChrisB/Downloads/untitled",
+		"/C/xampp/htdocs/laracast/routes/web.php",
+		"/C/xampp/htdocs/laravelmodels/app/Providers/AppServiceProvider.php",
+		"/C/xampp/htdocs/laracast/resources/views/contact.blade.php",
+		"/C/xampp/htdocs/laracast/resources/views/welcome.blade.php",
+		"/C/xampp/htdocs/laracast/resources/views/layout.blade.php",
+		"/C/xampp/htdocs/laracast/app/Http/Controllers/PagesController.php",
+		"/C/xampp/htdocs/laracast/app/Http/Controllers/Controller.php",
+		"/C/Bitnami/wampstack-7.1.26-0/apache2/htdocs/mvc/app/views/home/home.php",
+		"/C/Bitnami/wampstack-7.1.26-0/apache2/htdocs/mvc/app/start.php",
+		"/C/Bitnami/wampstack-7.1.26-0/apache2/htdocs/mvc/public/css/global.css",
+		"/C/Bitnami/wampstack-7.1.26-0/apache2/htdocs/mvc/app/controllers/Home.php",
+		"/C/Bitnami/wampstack-7.1.26-0/apache2/htdocs/mvc/app/models/User.php",
+		"/C/Bitnami/wampstack-7.1.26-0/apache2/htdocs/mvc/app/core/Controller.php",
+		"/C/Bitnami/wampstack-7.1.26-0/apache2/htdocs/mvc/app/core/View.php",
+		"/C/Bitnami/wampstack-7.1.26-0/apache2/htdocs/mvc/app/database.php",
+		"/C/Bitnami/wampstack-7.1.26-0/apache2/htdocs/pontiusthepilot/public_html/simvector/index.html",
+		"/C/Bitnami/wampstack-7.1.26-0/apache2/htdocs/pontiusthepilot/public_html/piddle/piddle.html",
+		"/C/Bitnami/wampstack-7.1.26-0/apache2/htdocs/pontiusthepilot/public_html/piddle/grids.html",
+		"/C/Bitnami/wampstack-7.1.26-0/apache2/htdocs/mvc/app/controllers/Users.php",
+		"/C/Bitnami/wampstack-7.1.26-0/apache2/htdocs/mvc/app/views/users/profile.php",
+		"/C/Users/ChrisB/Desktop/php.ini",
+		"/C/Program Files/PHP/v7.1/php.ini-development",
+		"/C/Program Files/PHP/v7.1/php - Copy.ini-development",
+		"/C/Users/ChrisB/AppData/Roaming/Composer/composer.json",
+		"/C/xampp/htdocs/laracast/composer.json",
+		"/C/xampp/htdocs/laracast/artisan",
+		"/C/xampp/htdocs/laravel-test-master/database/seeds/DatabaseSeeder.php",
+		"/C/xampp/htdocs/laravel-test-master/routes/web.php",
+		"/C/xampp/htdocs/laravel-test-master/artisan",
+		"/C/xampp/htdocs/laravel-test-master/.env",
+		"/C/xampp/htdocs/laravel-test-master/public/index.php",
+		"/C/xampp/htdocs/laravel-test-master/public/mix-manifest.json",
+		"/C/xampp/htdocs/laravel-test-master/public/.htaccess",
+		"/C/xampp/htdocs/laravel-test-master/vendor/laravel/framework/src/Illuminate/Database/Console/Seeds/SeederMakeCommand.php",
+		"/C/xampp/htdocs/laravel-test-master/vendor/laravel/framework/src/Illuminate/Database/Console/Seeds/stubs/seeder.stub",
+		"/C/xampp/htdocs/laravel-test-master/vendor/laravel/framework/src/Illuminate/Database/Seeder.php",
+		"/C/xampp/htdocs/laravel-test-master/config/database.php",
+		"/C/xampp/htdocs/laravel-test-master/server.php",
+		"/C/xampp/htdocs/laravel-test-master/database/migrations/2017_08_09_093905_create_tables.php",
+		"/C/xampp/htdocs/laravel-test-master/database/migrations/2014_10_12_100000_create_password_resets_table.php",
+		"/C/xampp/htdocs/laravel-test-master/phpunit.xml",
+		"/C/xampp/htdocs/laravel-test-master/.env.example",
+		"/C/xampp/apache/htdocs/laravel-test-master/database/seeds/DatabaseSeeder.php",
+		"/C/Bitnami/wampstack-7.1.26-0/php/php.ini",
+		"/C/Bitnami/wampstack-7.1.26-0/apache2/htdocs/laravel-test-master/composer.json",
+		"/C/Bitnami/wampstack-7.1.26-0/apache2/htdocs/pontiusthepilot/public_html/piddle/test.php",
+		"/C/Bitnami/wampstack-7.1.26-0/apache2/htdocs/pontiusthepilot/public_html/piddle/test.html",
+		"/C/Users/ChrisB/Downloads/flyityourself (79).txt",
+		"/C/Users/ChrisB/Downloads/flyityourself (80).txt",
+		"/C/Bitnami/wampstack-7.1.26-0/apache2/htdocs/mvc/app/core/setup.js",
+		"/C/Bitnami/wampstack-7.1.26-0/apache2/htdocs/pontiusthepilot/public_html/complete_web_development_course/7-bootstrap/01_grids/grids.html",
+		"/C/inetpub/wwwroot/alloga/00_sqrX8.html"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 108.0,
+		"where_history":
+		[
+			"",
+			"<open folders>",
+			"<open file>,<open folders>",
+			"<open file>",
+			"<current file>",
+			"",
+			"<project>",
+			"laravelmodels",
+			"",
+			"laravelmodels",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"extension",
+			"dd",
+			"xdebug",
+			"create",
+			"static",
+			"');\n",
+			"addTask",
+			" {{",
+			"users",
+			"asdfgh",
+			"extension",
+			"extension=php_pdo_mysql",
+			";extension=php_pdo_mysql",
+			";extension=php_pdo_mysql.dll",
+			"extension",
+			"extension=php_pdo_mysql.dll",
+			";extension=php_pdo_mysql.dll",
+			"';\n",
+			"foo",
+			">\n",
+			"extension",
+			"pdo_mysql",
+			"ext-openssl",
+			"extension",
+			"php_fileinfo.dll",
+			"extension=php_fileinfo.dll",
+			"extension",
+			"extension=php_fileinfo.dll",
+			"extension_dir",
+			");",
+			">",
+			"root",
+			"2922",
+			"}",
+			"Zeroconf",
+			"auth_type",
+			"Zeroconf",
+			"Zero Configuration mode",
+			"Zeroconf",
+			"tracking_add_drop_database",
+			"ShowDatabasesNavigationAsTree",
+			"$cfg['AuthLog']",
+			"MySQL settings",
+			"First server",
+			"Zeroconf",
+			"display_errors",
+			"error_reporting",
+			"error_reporting\n",
+			");\n",
+			"');\n",
+			"}",
+			"drawFlightPlanLeg",
+			"magDecl",
+			"declination",
+			"absoluteBearing",
+			"new google.maps.LatLng",
+			"latLng",
+			"getMagneticDeclination",
+			"PEAR",
+			"\t",
+			"fyiType",
+			"$('#ldDescription').val",
+			"tag",
+			"ddNSEW2decimal",
+			"flyityourself",
+			"              <label for=\"email\">Age</label>\n              <input id=\"age\" class=\"form-control\"",
+			"parseCoordinates",
+			"panTo",
+			"locateAddress",
+			"ui_manufacturer=\"Carenado\"",
+			"d*\\s?[\"″]",
+			"d*[\"″]",
+			"d*\\[\"″]",
+			"d*\\s?[\"″]",
+			"d{1,2}\\s?[\"″]",
+			"d*\\s?[\"″]",
+			"d{1,2}\\s?[\"″]",
+			"> ",
+			"currowid",
+			"});\n",
+			"wpg",
+			"wdDialogElement",
+			"waypoint_dialog",
+			"wdNotes",
+			"wdGroundSpeed",
+			"wdPassingAltitude",
+			"wdDescription",
+			"wdWaypoint",
+			"waypointsGrid",
+			"simvector",
+			"waypointsG",
+			"onRightClickRow",
+			"#waypoint_dialog",
+			"open_basedir",
+			"display_errors",
+			"displa",
+			"open_basedir",
+			"lat",
+			"latD",
+			"latDecimalDeg",
+			"var waypoint",
+			"waypoint",
+			"place ",
+			"flyityourself",
+			"extractPlaces",
+			"types, results",
+			"extractResults",
+			"buildWaypointFromRecievedData",
+			"addWaypoint",
+			"parseC",
+			"parse",
+			"\"",
+			"let map = new google.maps.Map(document.getElementById(\"map\"));",
+			"postcode",
+			"modal-content",
+			"tabstyle",
+			"-->\n",
+			"tablinks",
+			"= new",
+			"displayContents",
+			"= new",
+			"coords",
+			"= new",
+			"grid",
+			"function (map, latLng)",
+			"var",
+			"var ",
+			"userp"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"projects",
+			"name",
+			"steristest",
+			"ui_manufacturer=\"Cessna\"",
+			"lpg",
+			"ldDialogElement",
+			"location_dialog",
+			"ldNotes",
+			"ldElevationM",
+			"ldElevationFt",
+			"ldDescription",
+			"ldLocation",
+			"locationsGrid",
+			"flyityourself",
+			"tabs",
+			"let ",
+			"https://tools.wmflabs.org/kmlexport?article=List_of_cathedrals_in_Scotland",
+			"Mast",
+			",",
+			"",
+			"<li><b>",
+			"<b>",
+			":</b>",
+			":<b>",
+			"<li><b>",
+			"<b>",
+			"",
+			"VRP ",
+			",",
+			"VRP",
+			",",
+			"$1,",
+			"id=\"",
+			"MEF",
+			"addMEF",
+			"\"ne\": \"",
+			"\"nw\": \"",
+			"\"se\": \"",
+			"\"sw\": \"",
+			"\"ne\"",
+			"\"nw\"",
+			"\"se\"",
+			"\"sw\"",
+			"\"mef\"",
+			"\"longitude\"",
+			"\"latitude\"",
+			"longitude: -",
+			"latitude",
+			"west:",
+			"north:",
+			"longitude:",
+			"degreesLng",
+			"degreesLat",
+			"toDegrees",
+			"toRadians",
+			"lngDecimalDegrees",
+			").val($(\"#waypointsGrid\").getCell(simvector.currowid,",
+			"'#",
+			"$('#",
+			"'",
+			"waypoint",
+			"addWaypoint",
+			"simvector",
+			"waypointsGrid",
+			" case",
+			"fiy",
+			"newrowid",
+			"latLng",
+			"flyityourself",
+			"component",
+			"extractPlaces",
+			"extractResults",
+			"extractResults123",
+			"extractPlaces",
+			"initMap",
+			" addLocationAndPan",
+			" ",
+			"showPosition",
+			"div",
+			"",
+			"-jst-",
+			"addleaders",
+			"vs-knot",
+			"vs-mph",
+			"vs-name",
+			"vs-vspeed",
+			"col-jst-center",
+			"col-jst-right",
+			"col-jst-left",
+			"col-jst",
+			"col-jst-",
+			"Carburettor air",
+			"CORRECT",
+			"Carburettor air",
+			"CORRECT",
+			"DOWN",
+			"FREE/CORRECT",
+			"PRESS",
+			"AS REQD",
+			"Ft",
+			"powertable",
+			"Carburetor air",
+			"Philosopher"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.reg_replace":
+	{
+		"height": 401.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 120.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "laravelmodels.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"we",
+				"routes\\web.php"
+			],
+			[
+				"pro",
+				"app\\Http\\Controllers\\ProjectsController.php"
+			],
+			[
+				"web",
+				"routes\\web.php"
+			],
+			[
+				"route/we",
+				"routes\\web.php"
+			],
+			[
+				"create_pro",
+				"database\\migrations\\2019_03_03_150113_create_project_table.php"
+			],
+			[
+				"projects/c",
+				"resources\\views\\projects\\create.blade.php"
+			],
+			[
+				"projects",
+				"app\\Http\\Controllers\\ProjectTasksController.php"
+			],
+			[
+				"app\\c",
+				"app\\Console\\Kernel.php"
+			],
+			[
+				"ker",
+				"app\\Http\\Kernel.php"
+			],
+			[
+				"cre",
+				"resources\\views\\projects\\create.blade.php"
+			],
+			[
+				"ind",
+				"resources\\views\\projects\\index.blade.php"
+			],
+			[
+				"p",
+				"app\\Project.php"
+			],
+			[
+				"d",
+				"config\\database.php"
+			],
+			[
+				"c",
+				"C:\\xampp\\htdocs\\laracast\\resources\\views\\contact.blade.php"
+			],
+			[
+				"a",
+				"C:\\xampp\\htdocs\\laracast\\resources\\views\\about.blade.php"
+			],
+			[
+				"w",
+				"C:\\xampp\\htdocs\\laracast\\resources\\views\\welcome.blade.php"
+			],
+			[
+				"l",
+				"C:\\xampp\\htdocs\\laracast\\resources\\views\\layout.blade.php"
+			],
+			[
+				"r",
+				"C:\\xampp\\htdocs\\laracast\\routes\\web.php"
+			],
+			[
+				"wel",
+				"C:\\xampp\\htdocs\\laracast\\resources\\views\\welcome.blade.php"
+			],
+			[
+				"",
+				"period_checklists\\Alabeo_WACO_YMF5\\temp.htm"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false,
+			"restore_index":
+			{
+				"125":
+				{
+					"group": 0,
+					"index": 0
+				},
+				"126":
+				{
+					"group": 0,
+					"index": 1
+				}
+			},
+			"restore_layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			}
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 329.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
